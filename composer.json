@@ -1,5 +1,5 @@
 {
-  "name": "phpQuery",
+  "name": "hristijans/phpQuery",
   "type": "package",
   "description": "phpQuery is DOM manipulation library",
   "autoload": {
