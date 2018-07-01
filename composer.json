@@ -1,0 +1,10 @@
+{
+  "name": "phpQuery",
+  "type": "package",
+  "description": "phpQuery is DOM manipulation library",
+  "autoload": {
+    "files": [
+      "phpQuery/phpQuery.php"
+    ]
+  }
+}
